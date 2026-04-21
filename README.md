@@ -6,7 +6,7 @@ All code was created with R v4.3.3.
 ## Files
 
 ### Chamber data cleaning (Maatta_et_al_2026_Chamber_data_processing.R)
-This file contains the R script for cleaning the raw chamber data sets. For the chamber data sets, please refer to the manuscript and the metadata of the published, temporally-aggregated multi-site datasets (available at https://doi.org/10.5281/zenodo.17312404) and contact the data providers.
+This file contains the R script for cleaning the raw chamber data sets. For the raw chamber data sets, please refer to the manuscript and the metadata of the published, temporally-aggregated multi-site datasets (available at https://doi.org/10.5281/zenodo.17312404) and contact the data providers.
 
 ### EC data cleaning
 --- Coming soon ---
