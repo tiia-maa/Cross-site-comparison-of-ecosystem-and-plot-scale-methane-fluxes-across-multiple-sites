@@ -1,5 +1,5 @@
 # Cross site comparison of ecosystem and plot scale methane fluxes across multiple sites
-The R code used for processing and analyzing the EC and chamber methane (CH4) flux data used in the manuscript Määttä et al (2026) _A cross-site comparison of ecosystem- and plot-scale methane fluxes across multiple sites_ (in review at Biogeosciences). Prepint: https://doi.org/10.5194/egusphere-2025-5023
+The R code used for processing and analyzing the EC and chamber methane (CH<sub>4</sub>) flux data used in the manuscript Määttä et al (2026) _A cross-site comparison of ecosystem- and plot-scale methane fluxes across multiple sites_ (in review at Biogeosciences). Prepint: https://doi.org/10.5194/egusphere-2025-5023
 
 All code was created with R v4.3.3.
 
