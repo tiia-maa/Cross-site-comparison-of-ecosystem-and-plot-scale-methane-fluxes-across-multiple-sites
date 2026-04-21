@@ -21,3 +21,6 @@ This file contains the R script for the map in Fig. 1.
 This file contains the R script used for all the statistical analyses and figures (except Fig. 1) in the manuscript. Please see the manuscript for more details on the methods and their rationale. When possible, the figures were created with colorblind-safe palettes (e.g., Okabe-Ito palette). 
 
 The data sets used in this code can be downloaded at https://doi.org/10.5281/zenodo.17312404. 
+
+## Contact
+For further information, please contact Tiia Määttä (tiia.maatta@geo.uzh.ch)
