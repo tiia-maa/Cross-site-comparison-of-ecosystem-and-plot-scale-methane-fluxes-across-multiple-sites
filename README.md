@@ -14,7 +14,7 @@ All code was created with R v4.3.3.
 ### EC and chamber data combination
 --- Coming soon ---
 
-### Map
+### Map (Maatta_et_al_2026_map.R)
 This file contains the R script for the map in Fig. 1. 
 
 ### Statistical analyses (Maatta_et_al_2026_Statistical_analyses.R)
