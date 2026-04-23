@@ -8,14 +8,14 @@ All code was created with R v4.3.3.
 ### Chamber data cleaning (Maatta_et_al_2026_Chamber_data_processing.R)
 This file contains the R script for cleaning the raw chamber data sets. For the raw chamber data sets, please refer to the manuscript and the metadata of the published, temporally-aggregated multi-site datasets (available at https://doi.org/10.5281/zenodo.17312404) and contact the data providers.
 
-### EC data cleaning
+### EC data cleaning (Maatta_et_al_2026_EC_data_cleaning.R)
 This file contains the R script for cleaning and subsetting the EC datasets obtained from the FLUXNET-CH<sub>4</sub> database (Delwiche et al. 2021, Knox et al. 2019; https://fluxnet.org/data/fluxnet-ch4-community-product/). 
 
 Delwiche et al., 2021. “FLUXNET-CH4: A global, multi-ecosystem dataset and analysis of methane seasonality from freshwater wetlands.” Earth System Science Data Discuss https://doi.org/10.5194/essd-13-3607-2021.
 
 Knox, Sara H., Robert B. Jackson, Benjamin Poulter, Gavin McNicol, Etienne Fluet-Chouinard, Zhen Zhang, Gustaf Hugelius, et al. 2019. “FLUXNET-CH4 Synthesis Activity: Objectives, Observations, and Future Directions.” Bulletin of the American Meteorological Society 100 (12): 2607–32.
 
-### EC and chamber data combination
+### EC and chamber data combination (Maatta_et_al_2026_EC_chamber_combination.R)
 This file contains the R script for combining the EC and chamber data sets. First, the code combines the data and temporally aggregates the combined data per site, and then combines site-specific aggregations to multi-site temporal aggregations (half-hourly, hourly, daily, weekly, monthly, and annual). Finally, the code creates the published multi-site temporal aggregations (available at https://doi.org/10.5281/zenodo.17312404). Note: the unaggregated data sets are not part of the published data package but their processing is shown here nonetheless.
 
 ### Map (Maatta_et_al_2026_map.R)
